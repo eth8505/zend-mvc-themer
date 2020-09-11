@@ -1,6 +1,9 @@
 Eth8505\ZendMvcThemer - Module for Theming Zend\Mvc apps
 ==================================================================
 
+!!!IMPORTANT!!! This package is no longer maintained, as Zendframework was renamed to laminas. Please use eth85055/laminas-mvc-themer instead.
+
+
 The **Eth8585\ZendMvcThemer** moduole adds theming support to Zend\Mvc apps.
 
 ## How to install
